@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), in the [HKUST NLP Group](https://github.com/hkust-nlp), where I am supervised by [Prof. Junxian He](https://jhe.ai). I graduated from Shanghai Jiao Tong University (SJTU) with a B.Eng. in June 2024.
+I am a first-year Ph.D. candidate in Computer Science at the Hong Kong University of Science and Technology (HKUST), in the HKUST NLP Group, where I am supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) with a B.Eng. in June 2024.
 
 My research lies at the intersection of natural language processing and machine learning. I am broadly interested in improving the reasoning ability, truthfulness, and interpretability of large language models, as well as understanding and mitigating hallucinations in vision-language models. I am currently a Research Intern at MINIMAX.
 
@@ -16,10 +16,10 @@ Academic Background
 
 * **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 – Present
   * First-year Ph.D. candidate in the HKUST NLP Group
-  * Supervised by Prof. Junxian He
+  * Supervised by Professor Junxian He
 * **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 – 2024
   * Graduated in June 2024
-  * Advised by Prof. Junxian He during undergraduate studies
+  * Advised by Professor Junxian He during undergraduate studies
 * **Honors**
   * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
